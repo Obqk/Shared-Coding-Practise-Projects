@@ -1,0 +1,34 @@
+******Phase 1: Setup******
+
+This is where we'll start off - with the basics.
+
+There will be three sub-sections:
+  1. Graph Setup
+  2. Point Definition
+  3. Function and Data Setup
+  
+1.1 Graph Setup
+  This is basically learning how to set up a table or a graph (grid) through code. 
+  Once we know this, we can use this setup to incorporate things like points and lines and whatnot. 
+  But basically we're drawing a square which we can put points onto. 
+  
+  ---Task: Initialize a grid---
+  
+1.2 Point Definition
+  This incorporates the previous section - we have a graph, and now we learn how to put a point on the graph.
+  Obviously sounds easy but it's worth learning how to actually do it so it won't be a problem in the future, in terms of 
+    points being where they shouldn't be and not knowing why. 
+  Once we know how to put points on a graph, we can basically play around with the points we have on the graph to see what happens. 
+
+  ---Task: Plot a point on a grid---
+
+1.3 Function and Data Setup
+  So this is basically learning how to organize different data and how to write functions in code.
+  Organizing data just means things like sorting the data, randomizing the data, categorizing the data, etc. because we can 
+    pick what we want to do. Sometimes the best thing to do is also just to store the data in the order it comes in (chronological).  
+  Writing the functions is just so we know how to write plots in code - nothing too fancy. But it leads up to being able to write
+    stuff like those benchmark functions we did in the algorithms project. We can start off with simple functions like x^2, or 2x+3,
+    nothing too crazy just so we get the basic concepts. 
+    
+  ---Task: Store data of a given function--
+  (Do so by storing the data values for f(x) = 9x+9 for the doman of x values between -10 and 10)
